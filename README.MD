@@ -52,6 +52,10 @@
 - MySQL 5.7.37
 
 ---
+- [ ]  BlockChain
+- solidity
+
+---
 
 - [ ]  CI/CD
 - Docker version 20.10.18, build b40c2f6
